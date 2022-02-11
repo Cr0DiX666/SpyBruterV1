@@ -43,9 +43,9 @@ class SpyBruterV1:
  |_____/| .__/ \__, |____/|_|   \__,_|\__\___|_|   
         | |     __/ |                              
         |_|    |___/                 v1              
-                        CodedBy Mister Spy
-                          icq: 712083179
-                          Site:tshop.to                        
+                        CodedBy RSecxXx@H4x0r.iD
+                          Author: Alice Edward
+                          Site:https://indonesiasyndicate666ghost.blogspot.com                        
     """
             for N, line in enumerate(x.split("\n")):
                 sys.stdout.write("\x1b[1;%dm%s%s\n" % (random.choice(colors), line, clear))
