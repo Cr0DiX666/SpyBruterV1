@@ -1,6 +1,5 @@
 # SpyBruterV1
 
-![alt text](https://raw.githubusercontent.com/MisterSpyx/SpyBruterV1/master/image/1.png)
 ![alt text](https://raw.githubusercontent.com/MisterSpyx/SpyBruterV1/master/image/2.png)
 
 <h2>MultiThread Script</h2>
